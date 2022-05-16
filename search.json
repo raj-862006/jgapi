@@ -2,31 +2,37 @@
     {
         "Search": "About",
         "SubInfo": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore,consequatur?Lorem ipsum dolor sit Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, sit.",
-        "Display": "flex"
+        "Display": "flex",
+        "Image": "https://drive.google.com/file/d/1SLEKfgaxVILLyBXGQq0UD0Q4NdD0TjKI/view?usp=sharing"
     },
     {
         "Search": "Hostel Life",
         "SubInfo": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore,consequatur?Lorem ipsum dolor sit Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, sit.",
-        "Display": "flex"
+        "Display": "flex",
+        "Image": "https://drive.google.com/file/d/1K1DvuNqKg6O3Oycf_-EIvfYZGWAmIn0P/view?usp=sharing"
     },
     {
-        "Search": "Classroom",
+        "Search": "IT Room",
         "SubInfo": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore,consequatur?Lorem ipsum dolor sit Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, sit.",
-        "Display": "none"
+        "Display": "none",
+        "Image": "https://drive.google.com/file/d/1_crdw2npB6bAxdq5_St9P-BZhNMNuUTf/view?usp=sharing"
     },
     {
         "Search": "Admission Process",
         "SubInfo": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore,consequatur?Lorem ipsum dolor sit Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, sit.",
-        "Display": "flex"
+        "Display": "flex",
+        "Image": "https://drive.google.com/file/d/1gZMFDrefOdGebJXc1S_M3C7GT_P5aiuI/view?usp=sharing"
     },
     {
         "Search": "Admission Qualifications",
         "SubInfo": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore,consequatur?Lorem ipsum dolor sit Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, sit.",
-        "Display": "none"
+        "Display": "none",
+        "Image": "https://drive.google.com/file/d/1gZMFDrefOdGebJXc1S_M3C7GT_P5aiuI/view?usp=sharing"
     },
     {
         "Search": "Laboratory",
         "SubInfo": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore,consequatur?Lorem ipsum dolor sit Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, sit.",
-        "Display": "none"
+        "Display": "none",
+        "Image": "https://drive.google.com/file/d/1GXCnIoyoi4PZ0LNPvXmPk8ot0i2VtxwC/view?usp=sharing"
     }
 ]
