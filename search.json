@@ -1,26 +1,32 @@
 [
     {
         "Search": "About",
-        "SubInfo": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore,consequatur?Lorem ipsum dolor sit Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, sit."
+        "SubInfo": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore,consequatur?Lorem ipsum dolor sit Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, sit.",
+        "Display": "flex"
     },
     {
         "Search": "Hostel Life",
-        "SubInfo": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore,consequatur?Lorem ipsum dolor sit Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, sit."
+        "SubInfo": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore,consequatur?Lorem ipsum dolor sit Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, sit.",
+        "Display": "flex"
     },
     {
         "Search": "Classroom",
-        "SubInfo": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore,consequatur?Lorem ipsum dolor sit Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, sit."
+        "SubInfo": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore,consequatur?Lorem ipsum dolor sit Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, sit.",
+        "Display": "none"
     },
     {
         "Search": "Admission Process",
-        "SubInfo": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore,consequatur?Lorem ipsum dolor sit Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, sit."
+        "SubInfo": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore,consequatur?Lorem ipsum dolor sit Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, sit.",
+        "Display": "flex"
     },
     {
         "Search": "Admission Qualifications",
-        "SubInfo": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore,consequatur?Lorem ipsum dolor sit Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, sit."
+        "SubInfo": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore,consequatur?Lorem ipsum dolor sit Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, sit.",
+        "Display": "none"
     },
     {
         "Search": "Laboratory",
-        "SubInfo": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore,consequatur?Lorem ipsum dolor sit Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, sit."
+        "SubInfo": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore,consequatur?Lorem ipsum dolor sit Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, sit.",
+        "Display": "none"
     }
 ]
