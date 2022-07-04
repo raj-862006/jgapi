@@ -5,7 +5,7 @@
         "Display": "flex",
         "Image": "https://drive.google.com/uc?id=1SLEKfgaxVILLyBXGQq0UD0Q4NdD0TjKI",
         "Action": "Know-More",
-        "ref": "/pages/about.html"
+        "ref": "/src/pages/about.html"
     },
     {
         "Search": "Hostel Life",
@@ -13,7 +13,7 @@
         "Display": "flex",
         "Image": "https://drive.google.com/uc?id=1K1DvuNqKg6O3Oycf_-EIvfYZGWAmIn0P",
         "Action": "Know-More",
-        "ref": "/pages/hostel-life.html"
+        "ref": "/src/pages/hostel-life.html"
     },
     {
         "Search": "IT Room",
@@ -21,7 +21,7 @@
         "Display": "none",
         "Image": "https://drive.google.com/uc?id=1_crdw2npB6bAxdq5_St9P-BZhNMNuUTf",
         "Action": "Know-More",
-        "ref": "/pages/it-room.html"
+        "ref": "/src/pages/it-room.html"
     },
     {
         "Search": "Admission Process",
@@ -29,7 +29,7 @@
         "Display": "flex",
         "Image": "https://drive.google.com/uc?id=1gZMFDrefOdGebJXc1S_M3C7GT_P5aiuI",
         "Action": "Know-More",
-        "ref": "/pages/admission-process.html"
+        "ref": "/src/pages/admission-process.html"
     },
     {
         "Search": "Admission Qualifications",
@@ -37,7 +37,7 @@
         "Display": "none",
         "Image": "https://drive.google.com/uc?id=1gZMFDrefOdGebJXc1S_M3C7GT_P5aiuI",
         "Action": "Know-More",
-        "ref": "/pages/admission-qualification.html"
+        "ref": "/src/pages/admission-qualification.html"
     },
     {
         "Search": "Laboratory",
@@ -45,6 +45,6 @@
         "Display": "none",
         "Image": "https://drive.google.com/uc?id=1GXCnIoyoi4PZ0LNPvXmPk8ot0i2VtxwC",
         "Action": "Know-More",
-        "ref": "/pages/laboratory.html"
+        "ref": "/src/pages/laboratory.html"
     }
 ]
