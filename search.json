@@ -3,36 +3,48 @@
         "Search": "About",
         "SubInfo": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore,consequatur?Lorem ipsum dolor sit Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, sit.",
         "Display": "flex",
-        "Image": "https://drive.google.com/uc?id=1SLEKfgaxVILLyBXGQq0UD0Q4NdD0TjKI"
+        "Image": "https://drive.google.com/uc?id=1SLEKfgaxVILLyBXGQq0UD0Q4NdD0TjKI",
+        "Action": "Know-More",
+        "ref": "/pages/about"
     },
     {
         "Search": "Hostel Life",
         "SubInfo": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore,consequatur?Lorem ipsum dolor sit Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, sit.",
         "Display": "flex",
-        "Image": "https://drive.google.com/uc?id=1K1DvuNqKg6O3Oycf_-EIvfYZGWAmIn0P"
+        "Image": "https://drive.google.com/uc?id=1K1DvuNqKg6O3Oycf_-EIvfYZGWAmIn0P",
+        "Action": "Know-More",
+        "ref": "/pages/hostel-life"
     },
     {
         "Search": "IT Room",
         "SubInfo": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore,consequatur?Lorem ipsum dolor sit Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, sit.",
         "Display": "none",
-        "Image": "https://drive.google.com/uc?id=1_crdw2npB6bAxdq5_St9P-BZhNMNuUTf"
+        "Image": "https://drive.google.com/uc?id=1_crdw2npB6bAxdq5_St9P-BZhNMNuUTf",
+        "Action": "Know-More",
+        "ref": "/pages/it-room"
     },
     {
         "Search": "Admission Process",
         "SubInfo": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore,consequatur?Lorem ipsum dolor sit Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, sit.",
         "Display": "flex",
-        "Image": "https://drive.google.com/uc?id=1gZMFDrefOdGebJXc1S_M3C7GT_P5aiuI"
+        "Image": "https://drive.google.com/uc?id=1gZMFDrefOdGebJXc1S_M3C7GT_P5aiuI",
+        "Action": "Know-More",
+        "ref": "/pages/admission-process"
     },
     {
         "Search": "Admission Qualifications",
         "SubInfo": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore,consequatur?Lorem ipsum dolor sit Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, sit.",
         "Display": "none",
-        "Image": "https://drive.google.com/uc?id=1gZMFDrefOdGebJXc1S_M3C7GT_P5aiuI"
+        "Image": "https://drive.google.com/uc?id=1gZMFDrefOdGebJXc1S_M3C7GT_P5aiuI",
+        "Action": "Know-More",
+        "ref": "/pages/admission-qualification"
     },
     {
         "Search": "Laboratory",
         "SubInfo": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore,consequatur?Lorem ipsum dolor sit Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, sit.",
         "Display": "none",
-        "Image": "https://drive.google.com/uc?id=1GXCnIoyoi4PZ0LNPvXmPk8ot0i2VtxwC"
+        "Image": "https://drive.google.com/uc?id=1GXCnIoyoi4PZ0LNPvXmPk8ot0i2VtxwC",
+        "Action": "Know-More",
+        "ref": "/pages/laboratory"
     }
 ]
